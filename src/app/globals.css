@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.Home {
+  background-image: url("../../public/banner-img1.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.offer {
+  background-image: url("../../public/background-img.jpg");
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 100%;
+}
